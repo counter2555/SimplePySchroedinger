@@ -39,4 +39,6 @@ if __name__ == "__main__":
     plt.show()
 ```
 The result of this code is the following image, which illustrates the potential and a finite number of wavefunctions with their eigenenrgies.
+
+
 ![QHM Solution](./QHM1.png)
