@@ -42,3 +42,8 @@ The result of this code is the following image, which illustrates the potential 
 
 
 ![QHM Solution](./QHM1.png)
+
+## Accuracy
+To check whether the numerical solutions are accurate they can be compared to an analytical model such as the particle in the box. Below is an image of this comparison, where the dashed lines are the analytical eigenenergies and the solid lines are the numerical solutions.
+
+![Particle in A Box](./particle_in_box1.png)
