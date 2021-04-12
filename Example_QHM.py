@@ -19,6 +19,6 @@ if __name__ == "__main__":
 	    plt.plot(x, np.abs(Psis[i])**2/1e9+Es[i])
 
     plt.xlabel("z [nm]")
-    plt.ylabel("E [meV]")
+    plt.ylabel("E [eV]")
     plt.savefig("QHM.png", dpi=80)
     plt.show()
