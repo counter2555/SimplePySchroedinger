@@ -72,5 +72,5 @@ if __name__ == "__main__":
 	plt.xlabel("z [nm]")
 	plt.ylabel("E [eV]")
 	plt.ylim([-0.1,1.1])
-	plt.savefig("particle_in_box.png", dpi=80)
+	plt.savefig("particle_in_box1.png", dpi=80)
 	plt.show()

@@ -20,5 +20,5 @@ if __name__ == "__main__":
 
     plt.xlabel("z [nm]")
     plt.ylabel("E [eV]")
-    plt.savefig("QHM.png", dpi=80)
+    plt.savefig("QHM1.png", dpi=80)
     plt.show()

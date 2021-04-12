@@ -35,7 +35,7 @@ if __name__ == "__main__":
 
     plt.xlabel("z [nm]")
     plt.ylabel("E [meV]")
-    plt.savefig("QHM.png", dpi=150)
+    plt.savefig("QHM1.png", dpi=150)
     plt.show()
 ```
 The result of this code is the following image, which illustrates the potential and a finite number of wavefunctions with their eigenenrgies.
