@@ -2,7 +2,7 @@ import numpy as np
 
 m0 = 9.10938356e-31 #kg
 e0 = 1.60217662e-19 #As
-hbar = 6.626070040e-34 #Js
+hbar = 6.626070040e-34/(2*np.pi) #Js
 
 def Schroedinger(V, dx=1.0, meff=1, normalize=False):
 	dx = dx * 1.0e-9
